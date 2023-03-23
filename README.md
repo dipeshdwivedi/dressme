@@ -1,6 +1,7 @@
 To Run the project follow one time process
     Create database and configure in .env file.
-    Run "php artisan migrate"
+    Run "composer install"
+        "php artisan migrate"
         "php artisan storage:link"
         "php artisan db:seed"
         
